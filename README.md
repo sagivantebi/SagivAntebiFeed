@@ -9,7 +9,7 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 ##
 
 ###
-Experienced in:
+# Experienced in:
 # Building AI Tools
  [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9]
  
