@@ -9,7 +9,7 @@
 ###
 Experienced in:
 
-[![Java](Resources/Logos/java_100.png)][2]  [![C++](Resources/Logos/c++_100.png)][3]  [![C](Resources/Logos/qt_100.png)][4]  [![C](Resources/Logos/c_100.png)][5]  [![Assembly](Resources/Logos/asm_100.png)][6]  [![Ocaml](Resources/Logos/ocaml_100.png)][7]  [![JS](Resources/Logos/js_100.png)][8]  [![TS](Resources/Logos/ts_100.png)][9]
+[![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]  [![C](Logos/qt_100.png)][4]  [![C](Logos/c_100.png)][5]  [![Assembly](Logos/asm_100.png)][6]  [![Ocaml](Logos/ocaml_100.png)][7]  [![JS](Logos/js_100.png)][8]  [![TS](Logos/ts_100.png)][9]
 
 ##### Random things about yours truly:
 * Upgrading from Windows to Arch Linux (Manjaro)
