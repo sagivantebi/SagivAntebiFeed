@@ -1,6 +1,6 @@
 # Hello there :wave:
 
-#### I'm Nave, a keyboard enthusiast that obviously got into the hobby because I program since I was 14, not because of "Fjell with lubed Holy Pandas".
+#### I'm Sagiv, a keyboard enthusiast that obviously got into the hobby because I program since I was 14, not because of "Fjell with lubed Holy Pandas".
 ~ Currently in Uni, studying my final semester of B.Sc in CS at Ben Gurion University.
 
 ~ I'm currently working on adding random features to a fork of XV6 for Operating Systems class.
@@ -9,7 +9,7 @@
 ###
 Experienced in:
 
-[![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]  [![C](Logos/qt_100.png)][4]  [![C](Logos/c_100.png)][5]  [![Assembly](Logos/asm_100.png)][6]  [![Ocaml](Logos/ocaml_100.png)][7]  [![JS](Logos/js_100.png)][8]  [![TS](Logos/ts_100.png)][9]
+ [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]  [![TS](Logos/ts_100.png)][9]
 
 ##### Random things about yours truly:
 * Upgrading from Windows to Arch Linux (Manjaro)
@@ -24,7 +24,7 @@ Experienced in:
 
 ### Reach me:
 
-[![LinkedIn](Resources/Logos/LinkedIn.png)][1]
+[![LinkedIn](Logos/LinkedIn.png)][1]
 
 [1]: https://www.linkedin.com/in/nave-hersco/
 [2]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
