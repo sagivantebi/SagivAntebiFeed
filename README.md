@@ -13,6 +13,7 @@ Experienced in:
  
  
  # Building Cyber Tools
+[![ransomware](Logos/ransomware.png)][10] [![server](Logos/server.png)][11]  [![web-crawler](Logos/web-crawler.png)][12]   [![dns](Logos/dns.png)][13]
  
   # Projects in different programming languages
  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
@@ -32,7 +33,7 @@ Experienced in:
 
 [![LinkedIn](Logos/LinkedIn.png)][1]
 
-[1]: https://www.linkedin.com/in/nave-hersco/
+[1]: https://www.linkedin.com/in/sagiv-antebi/
 [2]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
 [3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
 [4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
