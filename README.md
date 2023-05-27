@@ -34,14 +34,18 @@ Experienced in:
 [![LinkedIn](Logos/LinkedIn.png)][1]
 
 [1]: https://www.linkedin.com/in/sagiv-antebi/
-[2]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
-[3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
-[4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
-[5]: https://github.com/ThatGuyVanquish/ESPL
-[6]: https://github.com/ThatGuyVanquish/CC_FP
-[7]: https://github.com/ThatGuyVanquish/CC_AS2
-[8]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
-[9]: https://github.com/ThatGuyVanquish/PPL-Assignment-4
+[2]: https://github.com/sagivantebi/ArkanoidGame-Java
+[3]: https://github.com/sagivantebi/Anomaly_Detector-Cpp
+[4]: https://github.com/sagivantebi/C.S_Assignments
+[5]: https://github.com/sagivantebi/mini_Shell-C
+[6]: https://github.com/sagivantebi/Vocal_Waiting_Time_Assistant-Python
+[7]: https://github.com/sagivantebi/DaliDoodle-Development-AWS
+[8]: https://github.com/sagivantebi/Web_Caht
+[9]: https://github.com/sagivantebi/C.S_Assignments/tree/main/AI
+[10]: https://github.com/sagivantebi/Ransomware_Detection_Toga_Hackathon
+[11]: https://github.com/sagivantebi/Cloud_Simulator-Python
+[12]: https://github.com/sagivantebi/Web_Crawler-Python
+[13]: https://github.com/sagivantebi/DNS_Spoofing
 
 <!--
 **ThatGuyVanquish/ThatGuyVanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
