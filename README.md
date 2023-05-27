@@ -1,16 +1,20 @@
 # Hello there :wave:
 
 #### I'm Sagiv, a keyboard enthusiast that obviously got into the hobby because I program since I was 14, not because of "Fjell with lubed Holy Pandas".
-~ Currently in Uni, studying my final semester of B.Sc in CS at Ben Gurion University.
+~ Currently in Uni, studying my final semester of B.Sc in CS at Bar Ilan University.
 
 ~ I'm currently working on adding random features to a fork of XV6 for Operating Systems class.
 ##
 
 ###
 Experienced in:
-
+# AI Tools
  [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9]
  
+ 
+ # Building Cyber Tools
+ 
+  # Projects in different programming languages
  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
 
 ##### Random things about yours truly:
