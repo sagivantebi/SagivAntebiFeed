@@ -9,7 +9,9 @@
 ###
 Experienced in:
 
- [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]  [![TS](Logos/ts_100.png)][9]
+ [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9]
+ 
+ [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
 
 ##### Random things about yours truly:
 * Upgrading from Windows to Arch Linux (Manjaro)
