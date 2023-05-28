@@ -10,12 +10,12 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 
 ###
 # Experienced in:
-# Building AI Tools
- [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9]
+# Building AI & Cyber Tools
+ [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9] [![ransomware](Logos/ransomware.png)][10] [![server](Logos/server.png)][11]  [![web-crawler](Logos/web-crawler.png)][12]   [![dns](Logos/dns.png)][13]
+
  
- 
- # Building Cyber Tools
-[![ransomware](Logos/ransomware.png)][10] [![server](Logos/server.png)][11]  [![web-crawler](Logos/web-crawler.png)][12]   [![dns](Logos/dns.png)][13]
+<!--  
+ # Building Cyber Tools -->
  
  # Projects in different programming languages
  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
