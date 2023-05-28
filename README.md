@@ -9,8 +9,7 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 ##
 
 ###
-# Experienced in:
-# Building AI & Cyber Tools
+# Experienced in building AI & Cyber Tools
  [![ai](Logos/ai.png)][4] [![nlp](Logos/communication.png)][6]  [![nlp](Logos/natural-language-processing.png)][7]   [![python](Logos/python.png)][9] [![ransomware](Logos/ransomware.png)][10] [![server](Logos/server.png)][11]  [![web-crawler](Logos/web-crawler.png)][12]   [![dns](Logos/dns.png)][13]
 
  
