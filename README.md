@@ -40,7 +40,7 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 [4]: https://github.com/sagivantebi/C.S_Assignments
 [5]: https://github.com/sagivantebi/mini_Shell-C
 [6]: https://github.com/sagivantebi/Vocal_Waiting_Time_Assistant-Python
-[7]: https://github.com/sagivantebi/DaliDoodle-Development-AWS
+[7]: https://github.com/sagivantebi/DaliDoodle_Paint_With_Me_Bot-Python
 [8]: https://github.com/sagivantebi/Web_Caht
 [9]: https://github.com/sagivantebi/C.S_Assignments/tree/main/AI
 [10]: https://github.com/sagivantebi/Ransomware_Detection_Toga_Hackathon
