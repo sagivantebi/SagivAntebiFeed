@@ -20,7 +20,8 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
 
 ##### Random things about yours truly:
-* Currently I work at the Cyber Education Center in Magshimim as a Project Leader.
+* Currently I work at CBG - AI Researcher Specializing In Cybersecurity.
+* Also working at the Cyber Education Center in Magshimim as a Project Leader.
 * Participates in many hackathons.
 * Toga's Hackathon finalist.
 * Scored 100 in the OOP and Advanced Programming courses, 93 in Algorithms.
