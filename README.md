@@ -4,7 +4,9 @@
 My experience includes coding using Python, Java, C++, C, and many more. Over the course of my career, I have designed and developed efficient and scalable solutions using my expertise in data structures, algorithms, and software architecture principles.
 
 ~ In my current role, I specialize in cyber security as an AI researcher at CBG.
+
 ~ Currently in Uni, studying M.Sc in data system engineering at Ben Gurion University.
+
 ~ B.Sc in Computer Science at Bar Ilan University
 
 <!-- ~ I'm currently working on adding random features to a fork of XV6 for Operating Systems class. -->
