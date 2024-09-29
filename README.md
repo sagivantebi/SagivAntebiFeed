@@ -1,6 +1,6 @@
 # Hello there :wave:
 
-#### I'm Sagiv, and I'm a SOFTWARE DEVELOPER and an AI Researcher Specializing In Cybersecurity⚡🔭
+#### I'm Sagiv, and I'm a Data Scientist Specializing In LLMs and Cybersecurity, and a SOFTWARE DEVELOPER ⚡🔭
 My experience includes coding using Python, Java, C++, C, and many more. Over the course of my career, I have designed and developed efficient and scalable solutions using my expertise in data structures, algorithms, and software architecture principles.
 
 ~ In my current role, I specialize in cyber security as an AI researcher at CBG.
